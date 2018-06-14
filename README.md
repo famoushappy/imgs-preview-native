@@ -36,6 +36,6 @@ import ImgsPreview from 'imgs-preview-native';
 var imgsPreview = new ImgsPreview(parent element);
 
 
-##Notice
+## Notice
 
 注：一定要保证在实例化前，当前需要预览的所有图片元素已经加载，可理解为DOMContentLoaded。
